@@ -7,7 +7,7 @@ public class BulletHell : MonoBehaviour
     //Create parent objects to hold the sprites you want to enable to telegraph to your players that an attack is incoming.
     //Add them to the corresponding fields in the attackPatternsArray.
     //The functions you will need to call are "AddToCue" and "RunQueue", in that order.
-    //"AddToCue" when you wish to telegraph your attack.
+    //"AddToQueue" when you wish to telegraph your attack.
     //"RunQueue" when you wish to execute your attack.
 
     //EXPLANATION
