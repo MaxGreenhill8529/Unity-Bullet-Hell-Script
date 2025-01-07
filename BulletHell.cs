@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
-public class BulletHellSpawner : MonoBehaviour
+public class BulletHell : MonoBehaviour
 {
     //INSTRUCTIONS
     //Create parent objects to hold the spawn locations for the projectiles.
