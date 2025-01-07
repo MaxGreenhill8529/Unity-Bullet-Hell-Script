@@ -12,7 +12,7 @@ public class BulletHell : MonoBehaviour
 
     //EXPLANATION
     //The reason im using this parent structure is because it helps keep the hierarchy more organized and the script more flexible.
-    //Allowing you to simple switch a single parent object instead of dozens of individual transforms and spriteRenderers.
+    //Allowing you to simply switch a single parent object instead of dozens of individual transforms and spriteRenderers.
 
     [Header("Required References")]
     [Tooltip("The gameObject to spawn.")]
